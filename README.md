@@ -14,7 +14,7 @@ Bem-vindo ao Amigo Secreto Challenge! Este é um projeto simples e divertido par
 O resultado será exibido na tela. 
 
 <h2>Como Executar o Projeto 🚀</h2> <br>
-1 - Clone o repositório: git clone https://github.com/seu-usuario/amigo-secreto.git <br>
+1 - Clone o repositório: git clone https://github.com/robertonetoz/amigo-secreto.git <br>
 2 - Abra o arquivo index.html no seu navegador. <br>
 3 - Comece a adicionar nomes e divirta-se! <br>
 
