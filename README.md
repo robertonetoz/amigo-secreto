@@ -3,7 +3,7 @@ Bem-vindo ao Amigo Secreto Challenge! Este é um projeto simples e divertido par
 
 <h2>Como Funciona 🎲</h2> <br>
 1 - Adicionar Amigos:
-- Digite o nome de um amigo no campo de texto.
+- Digite o nome de um amigo no campo de texto. <br>
 - Clique em "Adicionar" para incluí-lo na lista.
 
 2 - Visualizar a Lista:
