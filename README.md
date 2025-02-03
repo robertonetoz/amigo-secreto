@@ -14,13 +14,12 @@ Bem-vindo ao Amigo Secreto Challenge! Este é um projeto simples e divertido par
 O resultado será exibido na tela. 
 
 <h2>Como Executar o Projeto 🚀</h2> <br>
-1 - Clone o repositório: <br>
- git clone https://github.com/seu-usuario/amigo-secreto.git <br>
+1 - Clone o repositório: git clone https://github.com/seu-usuario/amigo-secreto.git <br>
 2 - Abra o arquivo index.html no seu navegador. <br>
 3 - Comece a adicionar nomes e divirta-se! <br>
 
 <h2>Funcionalidades Principais ✨</h2>
- - Adicionar Nomes: Insira nomes de amigos e veja-os na lista.
- - Validação de Entrada: Impede a adição de nomes vazios.
- - Sorteio Aleatório: Escolhe um nome aleatório da lista.
+ - Adicionar Nomes: Insira nomes de amigos e veja-os na lista. <br>
+ - Validação de Entrada: Impede a adição de nomes vazios. <br>
+ - Sorteio Aleatório: Escolhe um nome aleatório da lista. <br>
  - Interface Amigável: Design moderno e responsivo.
