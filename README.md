@@ -2,12 +2,12 @@
 Bem-vindo ao Amigo Secreto Challenge! Este é um projeto simples e divertido para organizar um sorteio de amigo secreto. Com uma interface amigável e funcionalidades básicas, você pode adicionar nomes de amigos, visualizá-los em uma lista e sortear quem será o amigo secreto de cada um.
 
 <h2>Como Funciona 🎲</h2> <br>
-1 - Adicionar Amigos:
- - Digite o nome de um amigo no campo de texto.
+1 - Adicionar Amigos: <br>
+ - Digite o nome de um amigo no campo de texto.<br>
  - Clique em "Adicionar" para incluí-lo na lista.
 
 2 - Visualizar a Lista:
- - Todos os nomes adicionados aparecem em uma lista abaixo do campo de entrada.
+- Todos os nomes adicionados aparecem em uma lista abaixo do campo de entrada.
 
 3 - Sortear Amigo:
  - Clique em "Sortear amigo" para escolher aleatoriamente um nome da lista.
