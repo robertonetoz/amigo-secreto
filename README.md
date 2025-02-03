@@ -1,4 +1,4 @@
-Amigo Secreto Challenge 🎉 <br>
+<h1>Amigo Secreto Challenge 🎉</h1> <br>
 Bem-vindo ao Amigo Secreto Challenge! Este é um projeto simples e divertido para organizar um sorteio de amigo secreto. Com uma interface amigável e funcionalidades básicas, você pode adicionar nomes de amigos, visualizá-los em uma lista e sortear quem será o amigo secreto de cada um.
 
 Como Funciona 🎲
